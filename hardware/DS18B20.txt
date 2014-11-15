@@ -1,0 +1,17 @@
+http://www.adafruit.com/product/381
+The specs of the DS18B20 Waterproof temperature sensor are:
+1.Brand New High Quality
+2.The probe the temperature sensor DS18B20 original chip
+3.High quality stainless steel tube encapsulation waterproof moistureproof prevent rust
+4.Stainless steel shell 6*50mm
+5.Power supply range: 3.0V to 5.5V
+6.Operating temperature range: -55∞C to +125∞C (-67∞F to +257∞F)
+7.Storage temperature range: -55∞C to +125∞C (-67∞F to +257∞F)
+8.Accuracy over the range of -10∞C to +85∞C: ŒÂŒÌŒ·0.5∞C.
+9.No other components, unique single bus interface
+10.Output lead: red (VCC), yellow(DATA) , black(GND)
+11.Cable length: 100 cm
+
+Datasheet: http://datasheets.maxim-ic.com/en/ds/DS18B20.pdf
+
+A specific library exists: https://github.com/milesburton/Arduino-Temperature-Control-Library
