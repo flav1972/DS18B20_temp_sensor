@@ -9,7 +9,7 @@ Based on http://www.hobbytronics.co.uk/ds18b20-arduino
 Libraries used:
 * Onewire from http://playground.arduino.cc/Learning/OneWire
 
-** Sources for Onewire: The latest version of the library is on Paul Stoffregen's site http://www.pjrc.com/teensy/td_libs_OneWire.html
+Sources for Onewire: The latest version of the library is on Paul Stoffregen's site http://www.pjrc.com/teensy/td_libs_OneWire.html
 
 * Arduino Library for Dallas Temperature ICs https://github.com/milesburton/Arduino-Temperature-Control-Library by Miles Burton and contributors
 
